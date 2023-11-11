@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    background-color: hsl(205, 73%, 88%);
+}
+
+.box {
+    width:320px;
+    height: 497px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    margin: 30px 20px 0px 20px;
+    font-family:'Outfit', arial;
+}
+
+p {
+    font-weight: 500;
+    color: hsl(214, 10%, 68%);
+    font-size: 15px;
+    margin: 20px;
+    font-family: 'Outfit', arial;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
