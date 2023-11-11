@@ -1,9 +1,9 @@
 body {
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 100px;
     background-color: hsl(205, 73%, 88%);
 }
 
